@@ -1,0 +1,8 @@
+{
+  "name": "Veo3 YOHU-pro - 1.29.26 key",
+  "description": "Nền tảng tạo video AI chuyên nghiệp dành cho nhà làm phim và tất cả video đa năng nhất với Veo 3.1.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
