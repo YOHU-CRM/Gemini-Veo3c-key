@@ -1,8 +1,8 @@
 
 import React, { useState, useEffect } from 'react';
-import { Layout } from './components/Layout';
-import { VideoGenerator } from './components/VideoGenerator';
-import { Pricing } from './components/Pricing';
+import  Layout  from './components/Layout';
+import  VideoGenerator  from './components/VideoGenerator';
+import  Pricing  from './components/Pricing';
 import { VideoMode, GenerationHistory, UserProfile } from './types';
 import { DEFAULT_PROFILE } from './constants';
 
